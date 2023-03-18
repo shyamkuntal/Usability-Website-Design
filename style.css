@@ -86,7 +86,6 @@ ul{
 }
 
 .nav-links {
-    position: absolute;
     flex-basis: 730px;
     background-color: white;
     left: -100%;
